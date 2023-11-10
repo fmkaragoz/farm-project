@@ -47,3 +47,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Contact
 For inquiries, contact us at fmkaragoz@gmail.com
+
+## SCREENSHOT
+
+![Project Scene](farm.gif)
